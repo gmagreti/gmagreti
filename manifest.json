@@ -1,0 +1,11 @@
+{
+    "name": "Links Luisdanielroviracontreras",
+    "short_name": "Luisdanielroviracontreras - instagram - github - twitter",
+    "description": "Links Luisdanielroviracontreras",
+    "theme_color": "#fff",
+    "background_color": "white",
+    "display": "standalone",
+    "Scope": "./",
+    "start_url": "index.html",
+    "splash_pages": null
+  }
