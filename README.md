@@ -1,4 +1,4 @@
-## Olá, Seja bem vindo ao meu GitHub!!
+## Olá, Seja bem vindo ao meu GitHub!! 🤜🏻🤛🏻
 
  <div>
   <a href="https://github.com/gmagreti">
