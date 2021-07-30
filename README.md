@@ -1,4 +1,5 @@
-## Oiii! Eu sou o Gabriel Magreti!!
+## Olá, Seja bem vindo ao meu GitHub!!
+
  <div>
   <a href="https://github.com/gmagreti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmagreti&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
