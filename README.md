@@ -7,6 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <a margin="10" href="https://zod.dev/" target="_blank"><img margin="10px" height="60" src="./assets/zod.svg" alt="Zod logo" title="Zod"></a>
+  <a margin="10" href="https://zod.dev/" target="_blank"><img margin="10px" height="60" src="./assets/angular.svg" alt="Angular logo" title="Angular"></a>
   <!-- <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
   <!-- <img align="center" alt="Gabriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> -->
   <!-- <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
